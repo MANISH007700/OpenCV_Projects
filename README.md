@@ -9,6 +9,6 @@
 ## Example Output Image after finding the angle 
 ![Image-output](image-op.png)
 
-### Do give the Repo a Star if you liked it 
+### Do give the Repo a Star if you liked it , I shall deploy it after some days !
 ### Thank you 
 ### MANISH SHARMA
